@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33.429596cm"
+   height="25.600822cm"
+   viewBox="0 0 1184.5132 907.11578"
+   id="svg3383"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   style="shape-rendering:crispEdges"
+   sodipodi:docname="super-qgis3.svg">
+  <defs
+     id="defs3385" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-757.90421"
+     inkscape:cy="469.26661"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-left="1"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     units="cm"
+     inkscape:window-width="1627"
+     inkscape:window-height="1029"
+     inkscape:window-x="1973"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true" />
+  <metadata
+     id="metadata3388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-132.35054,-83.090019)">
+    <g
+       transform="translate(7.7225616e-4,0.04609289)"
+       style="shape-rendering:crispEdges"
+       id="g5331">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4200"
+         transform="translate(132.35054,83.090019)"
+         d="M 234.32031,47.105469 51.460938,223.47852 592.25586,853.75781 C 653.04789,782.9072 713.83908,712.0559 774.63086,641.20508 l 33.76367,33.65039 96.91992,0 0,-87.87695 -45.5332,-45.01368 C 950.87094,435.80259 1041.9611,329.64075 1133.0508,223.47852 L 950.19336,47.105469 l -715.87305,0 z"
+         style="fill:#c80000;fill-opacity:1;stroke:#000000;stroke-width:23.00000191;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4177-3"
+         transform="translate(132.35054,83.090019)"
+         d="M 257.33398,104.16797 129.81055,227.15625 274.39062,395.6543 c -1.25375,-11.42555 -1.91601,-23.07238 -1.91601,-34.92969 0,-112.01366 57.82181,-205.09781 148.39648,-256.55664 l -163.53711,0 z m 505.72266,0 c 91.00728,51.59883 148.98242,144.94345 148.98242,256.55664 0,12.28906 -0.70216,24.36582 -2.0625,36.20117 69.63269,-81.14506 128.65104,-150.178 144.72654,-169.76953 l -127.52537,-122.98828 -164.12109,0 z m -169.26758,62.08398 c -105.35833,0 -193.14062,83.94076 -193.14062,195.22071 0,111.27734 88.77053,197.10156 193.14062,197.10156 14.58892,0 28.73069,-1.70174 42.3418,-4.83594 l 74.90625,74.53906 c 7.88033,-9.14963 15.07845,-17.51027 23.37891,-27.15039 l -79.55274,-79.28515 0,-93.2461 90.24024,0 74.44531,73.59571 c 7.10881,-8.26617 14.05884,-16.35716 21.15625,-24.61329 l -64.10742,-64.09765 c 4.16677,-16.495 6.41796,-33.91963 6.41796,-52.00781 10e-6,-111.29298 -83.88126,-195.22071 -189.22656,-195.22071 z m -55.79492,149.63867 93.10938,0 75.99804,75.13868 -89.79492,0 0,93.37109 -79.3125,-79.04883 0,-89.46094 z m 154.36719,334.06446 c -31.33352,9.15884 -65.05654,14.07617 -100.52539,14.07617 -34.82715,0 -67.9842,-4.75287 -98.85352,-13.625 l 99.27539,115.69727 c 0,0 42.71443,-49.52972 100.10352,-116.14844 z"
+         style="display:inline;fill:#ffeb00;fill-opacity:1;stroke:#000000;stroke-width:23.34367371;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
