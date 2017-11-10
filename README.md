@@ -7,4 +7,4 @@ Super QGIS
 
 Super QGIS 3
 
-<img src="super_qgis3.png" width="250">
+<img src="super-qgis3.png" width="250">
