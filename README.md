@@ -17,3 +17,6 @@ This repo will store my designs for Open source related t-shirts
 
 <img src="qgis_logo_8bit.png" width="250">
 
+## QGIS fights for the user
+
+<imgc src="tron-qgis_black.png" width="250">
