@@ -19,4 +19,4 @@ This repo will store my designs for Open source related t-shirts
 
 ## QGIS fights for the user
 
-<imgc src="tron-qgis_black.png" width="250">
+<img src="tron-qgis_black.png" width="250">
